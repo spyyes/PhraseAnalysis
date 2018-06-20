@@ -1,0 +1,431 @@
+year2007: 
+Roberto Cipolla, Shu-Fai Wong, Tae-Kyun Kim
+[]
+Dou Shen, Qiang Yang 0001, Zheng Chen
+[]
+Jeffrey Junfeng Pan, Qiang Yang 0001, Sinno Jialin Pan
+[]
+Chun Chen, Jiajun Bu, Kangmiao Liu
+[]
+Baoning Wu, Brian D. Davison 0001, Lan Nie
+[]
+Michael Wooldridge, Thomas ?gotnes, Wiebe van der Hoek
+[]
+Guy Shani, Ronen I. Brafman, Solomon Eyal Shimony
+[]
+Junsong Yuan, Ming Yang, Ying Wu
+[]
+Deng Cai, Jiawei Han 0001, Xiaofei He
+[]
+
+
+year2008:
+Djoerd Hiemstra, Henning Rode, Pavel Serdyukov
+[]
+Krisztian Balog, Maarten de Rijke, Wouter Weerkamp
+[]
+Alan L. Yuille, Long Zhu, Yuanhao Chen
+[learning]
+Gui-Rong Xue, Qiang Yang 0001, Wenyuan Dai, Yong Yu
+[learning]
+Shiguang Shan, Wen Gao 0001, Xilin Chen
+[]
+Ben He, Craig Macdonald, Iadh Ounis
+[]
+Andreas F. Koschan, David L. Page, Mongi A. Abidi
+[]
+Harpreet S. Sawhney, Rakesh Kumar 0001, Supun Samarasekera
+[]
+
+
+year2009:
+Jun Yan, Ning Liu, Zheng Chen
+[search]
+Jieping Ye, Jun Liu 0003, Liang Sun 0001
+[]
+Gang Wang 0010, Jun Yan, Zheng Chen
+[search]
+Shiguang Shan, Wen Gao 0001, Xilin Chen
+[]
+Jianhui Chen, Jieping Ye, Jun Liu 0003
+[learning]
+Dinggang Shen, Pew-Thian Yap, Weili Lin
+[]
+Karthik Sridharan, Ohad Shamir, Shai Shalev-Shwartz
+[]
+Alessandro Perina, Marco Cristani, Vittorio Murino
+[]
+
+
+year2010:
+Hongxun Yao, Rongrong Ji, Wen Gao 0001
+[]
+Amir Saffari, Christian Leistner, Horst Bischof
+[]
+
+
+year2011:
+Chris H. Q. Ding, Dijun Luo, Heng Huang
+[]
+Bart Selman, Carla P. Gomes, Stefano Ermon
+[]
+Dieter Fox, Liefeng Bo, Xiaofeng Ren
+[]
+Craig Macdonald, Iadh Ounis, Rodrygo L. T. Santos
+[]
+Karthik Ramani, Mengtian Sun, Yi Fang
+[]
+Dan Zhang 0007, Richard D. Lawrence, Yan Liu
+[learning]
+Enrico Pontelli, Son Thanh To, Tran Cao Son
+[]
+Brian D. Davison 0001, Dawei Yin, Liangjie Hong
+[]
+Chris H. Q. Ding, Feiping Nie, Heng Huang, Hua Wang
+[learning]
+Hans W. Guesgen, Sook-Ling Chua, Stephen Marsland
+[]
+
+
+year2012:
+Gang Zeng, Jingdong Wang, Shipeng Li
+[]
+Gang Chen 0001, Ke Chen 0005, Lidan Shou
+[]
+Craig Macdonald, Iadh Ounis, Richard McCreadie
+[]
+Ali Borji, Dicky N. Sihite, Laurent Itti
+[]
+Mehrdad Mahdavi, Rong Jin, Tianbao Yang
+[]
+Craig Macdonald, Iadh Ounis, Nicola Tonellotto
+[]
+Furu Wei, Ming Zhou 0001, Xiaohua Liu
+[]
+Dong Yi, Stan Z. Li, Zhen Lei
+[]
+Jinfeng Yi, Rong Jin, Tianbao Yang
+[]
+
+
+year2013:
+Mong-Li Lee, Wei Chen 0025, Wynne Hsu
+[]
+Gang Chen 0001, Ke Chen 0005, Lidan Shou
+[]
+Evan Archer, Il Memming Park, Jonathan W. Pillow
+[]
+Feiping Nie, Heng Huang, Xiao Cai
+[]
+Chris H. Q. Ding, Feiping Nie, Heng Huang, Hua Wang
+[]
+Lijun Zhang 0005, Mehrdad Mahdavi, Rong Jin
+[]
+Feiping Nie, Heng Huang, Jin Huang
+[]
+Anton van den Hengel, Chunhua Shen, Qinfeng Shi
+[]
+Hakim Hacid, Mohamed Reda Bouadjenek, Mokrane Bouzeghoub
+[search]
+Chi Wang 0001, Jiawei Han 0001, Marina Danilevsky, Nihit Desai
+[]
+Iain A. Matthews, Patrick Lucey, Peter Carr 0001
+[]
+Shengcai Liao, Stan Z. Li, Zhen Lei
+[]
+Dong Yi, Stan Z. Li, Zhen Lei
+[]
+Makoto P. Kato, Mayu Iwata, Takehiro Yamamoto, Tetsuya Sakai
+[]
+Chi Wang 0001, Jialu Liu, Jiawei Han 0001
+[]
+Alok N. Choudhary, Yusheng Xie, Zhengzhang Chen
+[]
+Mal¨² Castellanos, Meichun Hsu, Riddhiman Ghosh
+[]
+
+
+year2014:
+Hanqing Lu, Jian Cheng, Ting Yuan
+[]
+Haris Aziz 0001, Nicholas Mattei, Serge Gaspers, Simon Mackenzie, Toby Walsh
+[]
+Min Zhang 0006, Shaoping Ma, Yiqun Liu
+[models]
+David Poole 0001, Kristian Kersting, Sriraam Natarajan
+[]
+Cong Leng, Hanqing Lu, Jian Cheng
+[]
+Ian En-Hsu Yen, Inderjit S. Dhillon, Pradeep Ravikumar
+[]
+Quanshi Zhang, Ryosuke Shibasaki, Xuan Song
+[]
+Maarten de Rijke, Shangsong Liang, Zhaochun Ren
+[]
+
+
+year2015:
+Jiafeng Guo, Jun Xu, Xueqi Cheng, Yanyan Lan
+[]
+Luo Si, Qifan Wang, Zhiwei Zhang
+[learning]
+Raquel Urtasun, Sanja Fidler, Yukun Zhu
+[]
+Kewen Wang, Zhe Wang, Zhiqiang Zhuang
+[]
+Konstantinos Tsiakas, Michalis Papakostas, Rodney D. Nielsen
+[]
+Bart Selman, Carla P. Gomes, Stefano Ermon
+[]
+Maria Polukarov, Svetlana Obraztsova, Zinovi Rabinovich
+[]
+Enhong Chen, Linli Xu, Yitan Li
+[]
+Mingdong Ou, Peng Cui, Wenwu Zhu 0001
+[]
+Min Zhang 0006, Shaoping Ma, Yiqun Liu
+[]
+Ji-Rong Wen, Songfang Huang, Zhiwu Lu
+[]
+Bo Zhao 0001, Jiawei Han 0001, Jing Gao
+[]
+Boris Motik, Ian Horrocks, Yavor Nenov
+[]
+Dipan K. Pal, Felix Juefei-Xu, Marios Savvides
+[]
+Michael Zakharyaschev, Roman Kontchakov, Vladislav Ryzhikov
+[]
+Doina Precup, Gheorghe Comanici, Prakash Panangaden
+[]
+Carla P. Gomes, Stefano Ermon, Yexiang Xue
+[]
+Ruiping Wang 0001, Shiguang Shan, Xilin Chen, Zhiwu Huang
+[]
+Andrew W. Fitzgibbon, Jonathan Taylor, Shahram Izadi
+[]
+Hanmo Wang, Lei Shi, Liang Du, Peng Zhou, Yi-Dong Shen
+[]
+Chao Qian, Yang Yu 0001, Zhi-Hua Zhou
+[]
+Alexander Shleyfman, Malte Helmert, Martin Wehrle, Michael Katz 0001
+[]
+Huan Liu, Jiliang Tang, Suhang Wang
+[social]
+Chen Change Loy, Ping Luo, Xiaoou Tang
+[]
+Hongyuan Zha, Junchi Yan, Stephen M. Chu, Xiaokang Yang
+[]
+Mihajlo Grbovic, Narayan Bhamidipati, Nemanja Djuric, Vladan Radosavljevic
+[]
+Chenguang Wang, Ming Zhang 0004, Yangqiu Song
+[]
+
+
+year2016:
+Kuldeep S. Meel, Moshe Y. Vardi, Supratik Chakraborty
+[]
+Barnab¨¢s P¨®czos, Jeff G. Schneider, Junier B. Oliva
+[]
+Hailin Shi, Stan Z. Li, Zhen Lei
+[learning]
+Qing Ling, Thomas S. Huang, Zhangyang Wang
+[deep]
+Changyou Chen, Chunyuan Li, Lawrence Carin
+[deep, learning]
+Claudio Lucchese, Raffaele Perego, Salvatore Orlando 0001
+[]
+Anton van den Hengel, Chunhua Shen, Lingqiao Liu
+[]
+Chunyan Miao, Cyril Leung, Han Yu
+[]
+Chunyan Miao, Han Yu, Zhiqi Shen
+[]
+Adam Roegiest, Charles L. A. Clarke, Jimmy J. Lin, Luchen Tan
+[]
+Kaile Su, Qingliang Chen, Xiaowei Huang
+[]
+Jian Sun 0001, Jifeng Dai, Kaiming He
+[]
+Ding Liu, Shiyu Chang, Thomas S. Huang, Yingzhen Yang, Zhangyang Wang
+[deep, learning]
+Andreas Krause 0001, Mario Lucic, Olivier Bachem
+[]
+Liang Wang 0001, Qiang Liu 0006, Shu Wu, Tieniu Tan
+[]
+Donghong Ji, Meishan Zhang, Yue Zhang
+[]
+Alexander Wong, Mohammad Javad Shafiee, Parthipan Siva
+[]
+Jun Zhao 0001, Kang Liu 0001, Shizhu He
+[]
+Tao Mei, Ting Yao, Yong Rui
+[deep]
+Bernt Schiele, Mohamed Omran, Rodrigo Benenson
+[]
+Changsheng Li, Junchi Yan, Xiangfeng Wang
+[]
+Lawrence Carin, Ricardo Henao, Yizhe Zhang
+[learning]
+Luc Van Gool, Radu Timofte, Rasmus Rothe
+[]
+Jianmin Wang 0001, Mingsheng Long, Yue Cao
+[deep]
+Hongsheng Li, Wanli Ouyang, Xiaogang Wang
+[deep, networks, learning, convolutional]
+Jiang Wang, Wei Xu, Yi Yang
+[]
+Jiashi Feng, Shuicheng Yan, Xiaodan Liang
+[learning]
+Arunesh Sinha, Milind Tambe, Thanh Hong Nguyen
+[]
+Guiguang Ding, Xiaoming Jin, Yuchen Guo
+[learning]
+Han Zhu, Jianmin Wang 0001, Mingsheng Long
+[deep]
+Daniele Magazzeni, Derek Long, Fabio Mercorio, Maria Fox, Wiktor Mateusz Piotrowski
+[]
+Enhong Chen, Qi Liu, Yong Ge
+[]
+Fei Fang, Milind Tambe, Thanh Hong Nguyen
+[]
+Antonio Torralba 0001, Carl Vondrick, Hamed Pirsiavash
+[]
+Jiafeng Guo, Jun Xu, Liang Pang, Shengxian Wan, Xueqi Cheng, Yanyan Lan
+[]
+Min Zhang 0006, Shaoping Ma, Yiqun Liu
+[search, information]
+Huan Liu, Jiliang Tang, Suhang Wang
+[]
+Fuchun Sun, Le-le Cao, Wen-bing Huang
+[]
+Chen Change Loy, Chen Huang, Xiaoou Tang
+[deep, learning]
+Dawei Yin, Jiliang Tang, Yi Chang
+[]
+
+
+year2017:
+Haixun Wang, Yanghua Xiao, Yi Zhang
+[]
+Jian Zhao, Jianshu Li, Jiashi Feng, Shuicheng Yan
+[neural, networks]
+Hanqing Lu, Yueting Zhuang, Zhou Zhao
+[learning]
+Christoph Busch, Kiran B. Raja, R. Raghavendra
+[]
+Chao Zhang, Jiawei Han 0001, Quan Yuan
+[]
+Anca D. Dragan, Dylan Hadfield-Menell, Stuart J. Russell
+[]
+Bin Luo, Bo Jiang, Jin Tang
+[]
+Fei Wu 0004, Xiao-Yuan Jing, Xiaoke Zhu
+[learning]
+Fei Wu 0004, Wangmeng Zuo, Xiao-Yuan Jing
+[learning]
+Haoran Huang, Qi Zhang, Xuanjing Huang
+[]
+Jiashi Feng, Shuicheng Yan, Xiaojie Jin, Yunpeng Chen
+[neural, networks]
+Hongyuan Zha, Junchi Yan, Xiaokang Yang
+[learning]
+Deng Cai, Xiaofei He, Yueting Zhuang, Zhou Zhao
+[learning]
+Chunyuan Li, Lawrence Carin, Ricardo Henao, Yunchen Pu
+[learning]
+Jianshu Li, Jiashi Feng, Shuicheng Yan, Zhecan Wang
+[neural, networks]
+Tao Mei, Ting Yao, Yingwei Pan
+[]
+Bill Freeman, Jiajun Wu 0001, Josh Tenenbaum
+[]
+Chang Xu, Chao Xu 0006, Dacheng Tao
+[learning]
+Alexander Krull, Carsten Rother, Eric Brachmann, Frank Michel
+[]
+Jun Wang, Lantao Yu, Weinan Zhang
+[]
+Jiashi Feng, Shuicheng Yan, Xiaodan Liang
+[neural, networks]
+Chunyuan Li, Lawrence Carin, Yunchen Pu, Zhe Gan
+[learning]
+Guiguang Ding, Jungong Han, Yuchen Guo, Yue Gao
+[learning]
+Dan Xu, Elisa Ricci, Nicu Sebe, Wanli Ouyang, Xiaogang Wang
+[deep, learning]
+Anton van den Hengel, Chunhua Shen, Lingqiao Liu
+[deep, learning]
+Mulin Chen, Qi Wang, Xuelong Li
+[]
+Cheng Deng, Feiping Nie, Heng Huang
+[]
+Feiping Nie, Junwei Han, Kun Song
+[]
+Xinwang Liu, Yong Dou, Yueqing Wang
+[]
+Maosong Sun, Ruobing Xie, Zhiyuan Liu
+[]
+Minnan Luo, Qinghua Zheng, Xiaojun Chang
+[]
+Bo Du, Dacheng Tao, Lefei Zhang
+[]
+Tao Mei, Ting Yao, Zhaofan Qiu
+[]
+Dacheng Tao, Yong Luo, Yonggang Wen
+[]
+Hongfu Liu, Yun Fu 0001, Zhiqiang Tao
+[]
+Jie Qin, Li Liu, Ling Shao, Yunhong Wang
+[]
+Qi Meng, Taifeng Wang, Tie-Yan Liu, Wei Chen
+[]
+Feiping Nie, Junwei Han, Xuelong Li
+[]
+Chao Chen, Dongsheng Li, Stephen M. Chu
+[]
+Aaron C. Courville, Florian Strub, Harm de Vries, Olivier Pietquin
+[]
+Anthony G. Cohn, David C. Hogg, Muhannad Al-Omari, Paul Duckworth
+[]
+Enhong Chen, Hongke Zhao, Qi Liu
+[]
+C. Lee Giles, Daniel Kifer, Xiao Yang
+[]
+Anna Khoreva, Bernt Schiele, Rodrigo Benenson
+[]
+Tie-Yan Liu, Wei Chen, Zhiming Ma
+[]
+Chao Qian, Jing-Cheng Shi, Ke Tang, Yang Yu 0001
+[]
+Chunyuan Li, Lawrence Carin, Liqun Chen, Yunchen Pu
+[learning]
+Anton van den Hengel, Qinfeng Shi, Yanning Zhang
+[]
+Fumin Shen, Li Liu, Ling Shao
+[]
+Hongyuan Zha, Junchi Yan, Shuai Xiao
+[learning]
+Min Zhang, Shaoping Ma, Yiqun Liu
+[]
+Jianmin Wang, Mingsheng Long, Philip S. Yu
+[]
+Tao Qin, Tie-Yan Liu, Yingce Xia
+[]
+Qi Tian, Song Bai, Xiang Bai
+[]
+Liqiang Nie, Tat-Seng Chua, Xiangnan He 0001
+[]
+Hailun Lin, Weiping Wang, Yinliang Yue, Yong Liu
+[]
+Lawrence Carin, Ricardo Henao, Zhe Gan
+[learning]
+Bo Zhang, Hang Su, Jun Zhu
+[]
+Edith Elkind, Martin Lackner, Piotr Skowron
+[]
+Bernt Schiele, Bjoern Andres, Siyu Tang
+[]
+Jianshu Li, Jiashi Feng, Shuicheng Yan, Yunpeng Chen
+[neural, networks]
+Jiashi Feng, Xiaojie Jin, Zequn Jie
+[networks]

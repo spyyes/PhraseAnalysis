@@ -1,0 +1,57 @@
+AAAI: 
+Leandro Soriano Marcolino, Milind Tambe, Zhi-Hua Zhou, Feiping Nie, Heng Huang, 
+Peter Stone, Yun Fu 0001, Dacheng Tao, Tuomas Sandholm, Pradeep Varakantham, 
+Hongyuan Zha, Anna Helena Reali Costa, Christopher Kiekintveld, Han Yu, Chunyan Miao, 
+Xuelong Li, Michael Bowling, Jia Jia, Eric Horvitz, James Andrew Bagnell, 
+Junchi Yan, Kewen Wang, Xueqi Cheng, Bo An, Yue Zhang, 
+Thanh Hong Nguyen, 
+
+SIGKDD:
+Jiawei Han 0001, Naren Ramakrishnan, Jie Tang, Hengshu Zhu, Hui Xiong, 
+Jieping Ye, 
+
+SIGIR:
+Tat-Seng Chua, Liqiang Nie, Yiqun Liu, Shaoping Ma, Min Zhang, 
+Pavel Serdyukov, Maarten de Rijke, Jimmy J. Lin, Charles L. A. Clarke, Guido Zuccon, 
+Jamie Callan, Jimmy Lin, W. Bruce Croft, Leif Azzopardi, Adam Roegiest, 
+Craig Macdonald, Iadh Ounis, Krisztian Balog, Chenyan Xiong, Jaap Kamps, 
+Hamed Zamani, 
+
+KR:
+
+
+NIPS:
+Andreas Krause 0001, Zoubin Ghahramani, Xi Chen, Han Liu, Lawrence Carin, 
+Michael I. Jordan, Barnabás Póczos, Pieter Abbeel, Le Song, Inderjit S. Dhillon, 
+Ruslan Salakhutdinov, Zhaoran Wang, Pradeep Ravikumar, Nicolas Heess, Francis R. Bach, 
+Alexander G. Schwing, Razvan Pascanu, Koray Kavukcuoglu, Nati Srebro, 
+
+COLT:
+
+
+CVPR:
+Ian D. Reid 0001, Konrad Schindler, Jiashi Feng, Lei Zhang, Song-Chun Zhu, 
+Shuicheng Yan, Jianchao Yang, Anton van den Hengel, Yi Yang, Alan L. Yuille, 
+Gang Hua, Tao Mei, Fumin Shen, Fei-Fei Li, Wangmeng Zuo, 
+Larry S. Davis, Ali Farhadi, Scott Cohen, Brian L. Price, Xiaoou Tang, 
+Chen Change Loy, Bernard Ghanem, Junsong Yuan, Xiaogang Wang, Alexei A. Efros, 
+Fatih Porikli, Liang Lin, Chunhua Shen, Li Liu, Luc J. Van Gool, 
+Li Fei-Fei, Silvio Savarese, Abhinav Gupta, Devi Parikh, Serge J. Belongie, 
+Pascal Fua, Jitendra Malik, Philip H. S. Torr, Xiaodan Liang, Deva Ramanan, 
+Bernt Schiele, Trevor Darrell, Sanja Fidler, Raquel Urtasun, Stefano Soatto, 
+Vikas Singh, Manmohan Chandraker, Antonio Torralba 0001, William T. Freeman, Hao Su, 
+Xiaohui Shen, Daniel Cremers, Luc Van Gool, Carsten Rother, Michael J. Black, 
+Marc Pollefeys, Andreas Geiger, Vittorio Ferrari, Hongdong Li, Mathieu Salzmann, 
+Kaiming He, Jian Sun 0001, Sinisa Todorovic, Ming-Hsuan Yang 0001, Wanli Ouyang, 
+Lingqiao Liu, In-So Kweon, Stefanos Zafeiriou, Zhe Lin 0001, Shahram Izadi, 
+Gang Wang 0012, Jin Young Choi, Bjoern Andres, Amit K. Roy-Chowdhury, Rodrigo Benenson, 
+Junjie Yan, Terrance E. Boult, Yoichi Sato, Thomas A. Funkhouser, Ling Shao, 
+Torsten Sattler, 
+
+IJCAI:
+Stefan Woltran, Milind Tambe, Guiguang Ding, Jungong Han, Yue Gao, 
+Zhi-Hua Zhou, Feiping Nie, Deng Cai, Xuanjing Huang, Xiaojun Chang, 
+David C. Parkes, Dacheng Tao, Toby Walsh, Haris Aziz 0001, Junwei Han, 
+Chang Xu, Zhiyuan Liu, Sebastian Rudolph, Bo An, Yu Zhang, 
+Maosong Sun, Frank Wolter, François Pachet, 
+
